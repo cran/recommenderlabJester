@@ -1,5 +1,6 @@
-49ca37e17b63117811a63b369aa34952 *DESCRIPTION
+fb54154bbcd197f67504e0bd33a72056 *DESCRIPTION
 d5b0eaf0ea4aa52b0dab64b782f42a29 *NAMESPACE
-83e92a7396884cc9cf37cda7d44c1cf1 *data/Jester.rda
-7184a58bfcbcc7e83441957895fa8009 *data/datalist
-e9c07b8b8dec9640d3a26a1d7381f046 *man/Jester.Rd
+f3176c5a1ef807b30a36b7a8e2255025 *data/Jester.rda
+81d9864b4699f0c3669fc413b68bb051 *data/Jester_text.rda
+a1b8955e466fe13f1063ae62cc37128f *data/datalist
+eb21759c793f0de4271f656f9743b47e *man/Jester.Rd
