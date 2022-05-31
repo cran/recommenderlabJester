@@ -1,6 +1,8 @@
-fb54154bbcd197f67504e0bd33a72056 *DESCRIPTION
+47ff748044726c6cee6efd024b90bf2f *DESCRIPTION
 d5b0eaf0ea4aa52b0dab64b782f42a29 *NAMESPACE
-f3176c5a1ef807b30a36b7a8e2255025 *data/Jester.rda
-81d9864b4699f0c3669fc413b68bb051 *data/Jester_text.rda
-a1b8955e466fe13f1063ae62cc37128f *data/datalist
-eb21759c793f0de4271f656f9743b47e *man/Jester.Rd
+c6b4d8b1c4936b916f34b8e2b9ebe7d6 *README.md
+f63ce72e807098135dba33e186556451 *data/Jester.rda
+1a3fefc8bde3341b1ef6c6a6fdd23acb *data/Jester5k.rda
+fdbb2d14da5b3906277523ba2d5eb434 *data/datalist
+d156b457826ac3eee6288f724026b860 *man/Jester.Rd
+bc5af8145e9f62f82425b8f9e8a79824 *man/figures/logo.svg
